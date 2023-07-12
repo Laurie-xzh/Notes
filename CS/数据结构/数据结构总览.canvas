@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"type":"file","file":"CS/数据结构/线性表.md","id":"a75d5d8651cda3da","x":-400,"y":-500,"width":400,"height":400},
+		{"type":"file","file":"CS/数据结构/数据结构.md","id":"2be2b2a85667ac78","x":-980,"y":-500,"width":400,"height":400},
+		{"type":"file","file":"CS/数据结构/树.md","id":"fd3626686d6a114e","x":-400,"y":-60,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"e9efcf3203715f12","fromNode":"2be2b2a85667ac78","fromSide":"right","toNode":"a75d5d8651cda3da","toSide":"left"},
+		{"id":"e9257447b7b07126","fromNode":"2be2b2a85667ac78","fromSide":"right","toNode":"fd3626686d6a114e","toSide":"left"}
+	]
+}
