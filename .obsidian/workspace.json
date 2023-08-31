@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d023a8ead3d74198",
+        "id": "45309d89d2a3dba3",
         "type": "tabs",
         "children": [
           {
-            "id": "8e49d46ed43bf035",
+            "id": "7f0b66b1dd10382b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Deep-Learning/Graph Neural Network.md",
+                "file": "AI/Deep-Learning/Transformer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d9bdfa58734e6c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/EnglishX401_Scientific_Writing/Module2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "760cbd1bfb59b0b4",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Deep-Learning/Graph Neural Network.md",
+                "file": "English/EnglishX401_Scientific_Writing/Module2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Deep-Learning/Graph Neural Network.md",
+                "file": "English/EnglishX401_Scientific_Writing/Module2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Deep-Learning/Graph Neural Network.md"
+                "file": "English/EnglishX401_Scientific_Writing/Module2.md"
               }
             }
           }
@@ -135,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,56 +163,56 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8e49d46ed43bf035",
+  "active": "9c8b387cd0f556d0",
   "lastOpenFiles": [
-    "AI/Deep-Learning/img/Pasted image 20230712104621.png",
-    "AI/Deep-Learning/img/Pasted image 20230712102426.png",
-    "AI/Deep-Learning/img/Pasted image 20230712102053.png",
-    "AI/Deep-Learning/img/Pasted image 20230712102038.png",
-    "AI/Deep-Learning/img/Pasted image 20230711224513.png",
-    "AI/Deep-Learning/img/Pasted image 20230711224350.png",
-    "AI/Deep-Learning/img/Pasted image 20230711223152.png",
-    "AI/Deep-Learning/img/Pasted image 20230711215511.png",
-    "AI/Deep-Learning/RNNs.md",
-    "AI/Deep-Learning/PyTorch.md",
-    "AI/Deep-Learning/Graph Neural Network.md",
-    "AI/Deep-Learning/img/Pasted image 20230710103328.png",
-    "AI/Deep-Learning/img/Pasted image 20230710102850.png",
-    "AI/Deep-Learning/img/Pasted image 20230710101517.png",
+    "English/EnglishX401_Scientific_Writing/Module1.md",
+    "English/EnglishX401_Scientific_Writing/Module2.md",
+    "English/EnglishX401_Scientific_Writing/img/Pasted image 20230830182419.png",
+    "English/EnglishX401_Scientific_Writing/img/Pasted image 20230830182336.png",
+    "English/EnglishX401_Scientific_Writing/img/Pasted image 20230830182151.png",
+    "English/EnglishX401_Scientific_Writing/img/Pasted image 20230830182106.png",
+    "English/EnglishX401_Scientific_Writing/Get start.md",
+    "English/EnglishX401_Scientific_Writing/img/Pasted image 20230827192136.png",
+    "English/EnglishX401_Scientific_Writing/img/Pasted image 20230827191557.png",
+    "English/EnglishX401_Scientific_Writing/img/Pasted image 20230827190944.png",
+    "English/EnglishX401_Scientific_Writing/img/Pasted image 20230827184631.png",
+    "English/EnglishX401_Scientific_Writing/img/Pasted image 20230827184531.png",
+    "English/EnglishX401_Scientific_Writing/img/Pasted image 20230827184328.png",
+    "English/EnglishX401_Scientific_Writing/img/Untitled.md",
+    "English/EnglishX401_Scientific_Writing/img",
+    "English/EnglishX401_Scientific_Writing/Content.md",
+    "AI/iSURE/Log.md",
+    "English/EnglishX401_Scientific_Writing",
     "AI/Deep-Learning/Transformer.md",
-    "AI/Deep-Learning/Project.md",
-    "AI/Deep-Learning/Autoencoders.md",
-    "AI/Deep-Learning/LSTM.md",
-    "AI/Deep-Learning/JAX 学习记录.md",
-    "AI/Deep-Learning/HMER.md",
-    "AI/Deep-Learning/深度学习框架.md",
-    "AI/圣母大学暑研/暑研日记.md",
-    "Notes/README.md",
-    "Notes",
-    "AI/Deep-Learning/Untitled 1.canvas",
-    "AI/强化学习/马尔可夫决策过程（Markov Decision Process）.md",
-    "CS/数据结构/排序.md",
-    "CS/数据结构/线性表.md",
-    "CS/数据结构/图.md",
-    "CS/数据结构/栈与队列.md",
-    "CS/数据结构/哈夫曼树.md",
-    "CS/数据结构/树.md",
-    "Math/Calculs/级数.md",
-    "Math/Calculs/第一型线积分与面积分.md",
-    "Math/Calculs/三重积分的计算.md",
-    "Math/Calculs/3.多元函数积分学及应用.md",
-    "CS/数据结构/二叉树.md",
+    "AI/Deep-Learning/PyTorch.md",
+    "AI/ML-algorithm/Data_process/Principal Component Analysis(PCA).md",
+    "English/GRE/Verbal.md",
+    "English/GRE/Math.md",
+    "English/GRE/Overview.md",
+    "AI/ML-algorithm/Data_process/傅里叶变换.md",
+    "AI/ML-algorithm/Data_process/img",
+    "AI/ML-algorithm/Data_process",
+    "CS/CSAPP/Overview.md",
+    "English/润/选校.md",
+    "English/润",
+    "CS/算法/Overview.md",
+    "English/GRE",
+    "English",
+    "AI/Deep-Learning/Graph Neural Network.md",
+    "CS/数据结构/查找.md",
+    "CS/算法",
+    "CS/CSAPP/Ch1.md",
     "CS/数据结构/串、数组和广义表.md",
+    "CS/CSAPP",
+    "Coding/Python/基本数据结构.md",
+    "Coding/寄录.md",
+    "AI/iSURE/img",
+    "AI/Deep-Learning/Autoencoders.md",
+    "AI/Deep-Learning/深度学习框架.md",
+    "AI/Deep-Learning/基于Open-flamingo的点云分类.md",
+    "AI/Deep-Learning/RNNs.md",
+    "AI/Deep-Learning/Untitled 1.canvas",
     "CS/数据结构/数据结构总览.canvas",
-    "AI/圣母大学暑研",
-    "Coding/img",
-    "AI/强化学习/img",
-    "Excalidraw",
-    "img",
-    "CS/数据结构/img",
-    "Math/Calculs/img",
-    "Untitled.canvas",
-    "Math/Linear Algebra",
-    "Math/Calculs"
+    "Untitled.canvas"
   ]
 }

@@ -4,7 +4,7 @@
 
 之前的卷积、全连接、池化层都只考虑不随意线索，而注意力机制，就是想对随意线索进行建模
 
-随意线索被称为查询(query)，输入是非意志线索(key)和值(value)的一个对。注意力机制（注意力池化）通过**query**来**有偏向性**的选择某些输入（key-value对）。
+随意线索被称为查询(query)，输入是非意志线索(key)和值(value)的一个对。注意力机制（注意力池化）通过**query**来**有偏向性**的选择某些输入（key-value对）。也可以说，注意力函数就是把Query和一组键值对映射到输出。
 
 ![[Pasted image 20230707114926.png]]
 
@@ -68,3 +68,24 @@ $\alpha(a,k_i)=softmax(\alpha(q,k_i))$
 
 # Multi-head attention
 
+
+
+
+
+
+
+
+
+# Transformer
+![[Pasted image 20230813202701.png]]
+
+
+https://github.com/huggingface/transformers
+
+https://jalammar.github.io/illustrated-transformer/
+
+https://www.cnblogs.com/lfri/p/15484030.html
+
+https://towardsdatascience.com/build-your-own-transformer-from-scratch-using-pytorch-84c850470dcb
+
+https://github.com/zxk19981227/Transformer/tree/main

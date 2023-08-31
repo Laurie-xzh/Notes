@@ -176,6 +176,15 @@ result = tensor1 * tensor2
 assert tensor.size() == (N, D, H, W) 作为调试手段，确保张量维度和你设想中一致。
 ```
 
+
+
+```python
+torch.chunk(_input_, _chunks_, _dim=0_)
+```
+- **input** ([_Tensor_](https://pytorch.org/docs/stable/tensors.html#torch.Tensor "torch.Tensor")) – the tensor to split
+- **chunks** ([_int_](https://docs.python.org/3/library/functions.html#int "(in Python v3.11)")) – number of chunks to return
+- **dim** ([_int_](https://docs.python.org/3/library/functions.html#int "(in Python v3.11)")) – dimension along which to split the tensor
+Attempts to split a tensor into the specified number of chunks. Each chunk is a view of the input tensor.
 # 模型
 
 ```python
